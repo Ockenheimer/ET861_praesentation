@@ -1,0 +1,391 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"padd",
+				"padding-bottom\tproperty"
+			],
+			[
+				"bot",
+				"padding-bottom\tproperty"
+			],
+			[
+				"t",
+				"title\tAttr"
+			],
+			[
+				"c",
+				"contextmenu\tAttr"
+			],
+			[
+				"se",
+				"select\tTag"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"te",
+				"textarea\tTag"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"ca",
+				"contenteditable\tAttr"
+			],
+			[
+				"ma",
+				"maxlength\tAttr"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"f",
+				"fieldset\tTag"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"set",
+				"style\tTag"
+			],
+			[
+				"fo",
+				"footer\tTag"
+			],
+			[
+				"produk",
+				"produkt1"
+			],
+			[
+				"met",
+				"meta\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Präsentation.md",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/LaTeXTools/LaTeX.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Traditional"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Script Builder"
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				"PdfLaTeX"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Markus/Documents/ET861_hausarbeit/präsentation.md",
+		"/C/Users/Markus/Documents/ET861_hausarbeit/src/inhalt.tex",
+		"/C/Users/Markus/Documents/ET861_hausarbeit/src/konfiguration.tex",
+		"/C/Users/Markus/Documents/ET861_hausarbeit/konzeptpapier.tex",
+		"/C/Users/Markus/Documents/GitHub/Vorlage_Konzeptpapier/Vorlage_Konzeptpapier/.gitignore",
+		"/C/Users/Markus/Documents/GitHub/hausarbeit_vorlage/.gitignore",
+		"/C/Users/Markus/AppData/Roaming/Sublime Text 3/Packages/User/LaTeXTools.sublime-settings",
+		"/C/Users/Markus/Documents/ET861_hausarbeit/.gitignore",
+		"/C/Users/Markus/AppData/Roaming/Sublime Text 3/Packages/User/Latex.sublime-build",
+		"/C/Users/Markus/AppData/Local/Temp/Temp1_AI801_Aufgaben.zip/AI801_Aufgaben/src/ai801_aufgaben/AI801_Aufgaben.java",
+		"/C/Users/Markus/Documents/GitHub/www/produkt2.htm",
+		"/C/Users/Markus/Documents/GitHub/www/shop.htm",
+		"/C/Users/Markus/Documents/GitHub/www/produkt1.htm",
+		"/C/Users/Markus/Documents/GitHub/www/look.css",
+		"/C/Eric/eric6-18.10/README.rst",
+		"/C/Users/Markus/Downloads/44200_53622.m3u",
+		"/C/Users/Markus/Documents/GitHub/www/index.html",
+		"/C/Users/Markus/OneDrive/OneDrive - et.hs-fulda.de/ET860 - Webprogrammierung und XML/Skripte/1. Woche Grundlagen & html/Übung1/produkt1.htm",
+		"/C/Users/Markus/Documents/GitHub/Ockenheimer.github.io/index.html",
+		"/C/Users/Markus/Documents/GitHub/webseite/index.html",
+		"/C/Users/Markus/OneDrive/OneDrive - et.hs-fulda.de/SW802 - Geschäftsprozessmodellierung im sozialen Umfeld/SW802_Hausarbeit/src/einleitung.tex",
+		"/C/Users/Markus/OneDrive/OneDrive - et.hs-fulda.de/SW802 - Geschäftsprozessmodellierung im sozialen Umfeld/SW802_Hausarbeit/src/optimierung.tex",
+		"/C/Users/Markus/OneDrive/OneDrive - et.hs-fulda.de/SW802 - Geschäftsprozessmodellierung im sozialen Umfeld/SW802_Hausarbeit/src/variablen.tex",
+		"/C/Users/Markus/OneDrive/OneDrive - et.hs-fulda.de/SW802 - Geschäftsprozessmodellierung im sozialen Umfeld/SW802_Hausarbeit/src/titelseite.tex",
+		"/C/Users/Markus/OneDrive/OneDrive - et.hs-fulda.de/SW802 - Geschäftsprozessmodellierung im sozialen Umfeld/SW802_Hausarbeit/Hausarbeit.tex",
+		"/C/Users/Markus/OneDrive/OneDrive - et.hs-fulda.de/SW802 - Geschäftsprozessmodellierung im sozialen Umfeld/SW802.sublime-project",
+		"/C/Users/Markus/Desktop/prog/main.cpp",
+		"/C/Users/Markus/OneDrive/OneDrive - et.hs-fulda.de/SW802 - Geschäftsprozessmodellierung im sozialen Umfeld/SW802_Hausarbeit/src/konfiguration.tex",
+		"/C/Users/Markus/OneDrive/OneDrive - et.hs-fulda.de/SW802 - Geschäftsprozessmodellierung im sozialen Umfeld/SW802_Hausarbeit/src/prozess.tex",
+		"/C/Users/Markus/OneDrive/OneDrive - et.hs-fulda.de/SW802 - Geschäftsprozessmodellierung im sozialen Umfeld/SW802_Hausarbeit/src/analyse.tex",
+		"/C/Users/Markus/OneDrive/OneDrive - et.hs-fulda.de/SW802 - Geschäftsprozessmodellierung im sozialen Umfeld/SW802_Hausarbeit/src/fazit.tex",
+		"/C/Users/Markus/OneDrive/OneDrive - et.hs-fulda.de/SW802 - Geschäftsprozessmodellierung im sozialen Umfeld/Notizen",
+		"/C/Users/Markus/OneDrive/OneDrive - et.hs-fulda.de/SW802 - Geschäftsprozessmodellierung im sozialen Umfeld/SW802_Hausarbeit/bib/literatur.bib",
+		"/C/Users/Markus/OneDrive/OneDrive - et.hs-fulda.de/ET833 - Software Engineering/ET833-Hausarbeit/src/bestandteile.tex",
+		"/C/Users/Markus/OneDrive/OneDrive - et.hs-fulda.de/ET833 - Software Engineering/ET833-Hausarbeit/src/kapitel3.tex",
+		"/C/Users/Markus/OneDrive/OneDrive - et.hs-fulda.de/ET833 - Software Engineering/ET833-Hausarbeit/ET833-Hausarbeit.tex",
+		"/C/Users/Markus/OneDrive/OneDrive - et.hs-fulda.de/ET833 - Software Engineering/ET833-Hausarbeit/src/einleitung.tex",
+		"/C/Users/Markus/Documents/GitHub/hausarbeit_vorlage/src/titelseite.tex",
+		"/C/Users/Markus/Documents/GitHub/hausarbeit_vorlage/src/konfiguration.tex",
+		"/C/Users/Markus/Documents/GitHub/AI801_Aufgaben/src/ai801_aufgaben/Aufgabe2.java"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"label",
+			"texbf",
+			"\"",
+			"ISO",
+			"F8F2ED",
+			"FFFF00"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Präsentation.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 324.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.latextools":
+	{
+		"height": 127.0
+	},
+	"output.markdown":
+	{
+		"height": 127.0
+	},
+	"pinned_build_system": "",
+	"project": "ET861_präsentation.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
