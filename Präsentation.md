@@ -41,3 +41,16 @@ Situation ab 2019
 ## ~~ElsterFormular~~
 
 ## Mein Elster
+
+---
+
+# Projektidee:
+
+Entwicklung einer Unterstützungs-App 
+zur Registrierung in "Mein Elster"
+
+---
+
+# Feature
+ * mehrere Benutzer
+ * 
