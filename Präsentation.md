@@ -41,6 +41,7 @@ Situation ab 2019
 ## ~~ElsterFormular~~
 
 ## Mein Elster
+<<<<<<< HEAD
 
 ---
 
@@ -54,3 +55,5 @@ zur Registrierung in "Mein Elster"
 # Feature
  * mehrere Benutzer
  * 
+=======
+>>>>>>> master
