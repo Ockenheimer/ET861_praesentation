@@ -1,9 +1,19 @@
-ET 861 - Visualisierungstechnik und Design
-===
+<!-- header: Test -->
+<!-- 
+$theme: gaia
+*template: invert
+-->
+
+### ET 861 - Multimedia- und Visualisierungstechnik \& Design
+
+## 
 
 # Einfach-Elster-App
 
 Entwicklung einer Begleit-App zur Registrierung beim Online-Steuererklärungstool "Mein Elster" der Bundesfinanzverwaltung
+
+<!-- footer: Markus Schäfer - Matr.Nr. 945208 - WiSe 18/19
+-->
 
 ---
 
@@ -38,7 +48,7 @@ bis 2018
 
 # Situation ab 2019
 
-### ~~ElsterFormular~~
+ ~~ElsterFormular~~
 
 ### Mein Elster
 
@@ -46,6 +56,8 @@ bis 2018
 ---
 
 # Projektidee:
+
+Geringe Abzeptanz von "Mein Elster"
 
 Entwicklung einer Unterstützungs-App 
 zur Registrierung in "Mein Elster"
@@ -76,11 +88,11 @@ Zur Auswahl stehen:
 
 ---
 
-# Smartphone-App
+# Smartphone-App 
 * Smartphone wird in der Hand gehalten
 * extremer Größenunterschied
 * "fummelige" Eingabe
-
+![](images/handy.png)
 ---
 
 # Tablet
@@ -90,5 +102,5 @@ Zur Auswahl stehen:
 * einfachere  Bedienung
 
 ---
-
+<!-- *template: invert -->
 # Live-Präsentation
