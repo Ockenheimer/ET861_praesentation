@@ -1,30 +1,34 @@
-<!-- header: Test -->
-<!-- 
-$theme: gaia
-*template: invert
--->
+autoscale: true
+footer: ET861 - Markus Schäfer - Matr.Nr. 945229
 
-### ET 861 - Multimedia- und Visualisierungstechnik \& Design
+![](images/Hintergrund.png)
 
-## 
 
-# Einfach-Elster-App
 
-Entwicklung einer Begleit-App zur Registrierung beim Online-Steuererklärungstool "Mein Elster" der Bundesfinanzverwaltung
+# **Einfach-Elster-App**
 
-<!-- footer: Markus Schäfer - Matr.Nr. 945208 - WiSe 18/19
--->
+Entwicklung einer Begleit-App zur Registrierung beim 
+Online-Steuererklärungstool "Mein Elster"
+der Bundesfinanzverwaltung
+
+
+
+
 
 ---
+
+![](images/Hintergrund.png)
 
 # Ausgangssituation
 
 bis 2018
+
 * ElsterFormular
 * ElsterOnline
 
 ---
-"Elster-Formular"
+![](images/Hintergrund.png)
+# "Elster-Formular"
 * Desktop-Anwendung
 * Vorteil:
    	* Optik entspricht den Formularen
@@ -34,7 +38,8 @@ bis 2018
 	* ohne Registrierung keine papierlose Erklärungsübermittlung 
 	
 ---
- "ElsterOnline" jetzt _**"Mein Elster"**_	
+![](images/Hintergrund.png)
+# "ElsterOnline" jetzt _**"Mein Elster"**_	
 * Webanwendung
 * Vorteil: 
 	* mehr Formulare
@@ -45,16 +50,18 @@ bis 2018
    	* zwingende Registrierung	
 
 ---
+![](images/Hintergrund.png)
 
 # Situation ab 2019
 
- ~~ElsterFormular~~
 
-### Mein Elster
+# Mein Elster
 
 
 ---
+![](images/Hintergrund.png)
 
+![right fit](images/Elster.png)
 # Projektidee:
 
 Geringe Abzeptanz von "Mein Elster"
@@ -63,6 +70,7 @@ Entwicklung einer Unterstützungs-App
 zur Registrierung in "Mein Elster"
 
 ---
+![](images/Hintergrund.png)
 
 # Feature
  * mehrere Benutzer
@@ -70,16 +78,18 @@ zur Registrierung in "Mein Elster"
  * Anzeige von Erklärvideos
 
 ---
+![](images/Hintergrund.png)
 
 # Welche Plattform?
 
 Zur Auswahl stehen:
-1. PC-Anwendung
-2. Tablet-App
-3. Smartphone-App
+1. PC-Anwendung ![right fit 15%](images/PC.png)
+2. Tablet-App ![right fit 30%](images/tablet.png)
+3. Smartphone-App ![right fit 20%](images/handy.png)
 
 ---
-
+![](images/Hintergrund.png)
+![right fit 50%](images/PC.png)
 # PC-Anwendung
 - Nutzung hauptsächlich im Vollbild
 * => Viel Unruhe auf dem Bildschirm	
@@ -87,14 +97,19 @@ Zur Auswahl stehen:
 	* weite Mauswege	 
 
 ---
-
+![](images/Hintergrund.png)
+![right fit  100%](images/handy.png)
 # Smartphone-App 
 * Smartphone wird in der Hand gehalten
 * extremer Größenunterschied
 * "fummelige" Eingabe
-![](images/handy.png)
----
 
+
+
+---
+![](images/Hintergrund.png)
+
+![right fit 200%](images/tablet.png)
 # Tablet
 
 * durch Verwendung einer Hülle relativ kleine Standfläche
@@ -102,5 +117,6 @@ Zur Auswahl stehen:
 * einfachere  Bedienung
 
 ---
-<!-- *template: invert -->
+![](images/Hintergrund.png)
+
 # Live-Präsentation
