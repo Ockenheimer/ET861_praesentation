@@ -36,12 +36,12 @@ bis 2018
 
 ---
 
-Situation ab 2019
-===
-## ~~ElsterFormular~~
+# Situation ab 2019
 
-## Mein Elster
-<<<<<<< HEAD
+### ~~ElsterFormular~~
+
+### Mein Elster
+
 
 ---
 
@@ -54,6 +54,41 @@ zur Registrierung in "Mein Elster"
 
 # Feature
  * mehrere Benutzer
- * 
-=======
->>>>>>> master
+ * Speichern von Eingabedaten
+ * Anzeige von Erklärvideos
+
+---
+
+# Welche Plattform?
+
+Zur Auswahl stehen:
+1. PC-Anwendung
+2. Tablet-App
+3. Smartphone-App
+
+---
+
+# PC-Anwendung
+- Nutzung hauptsächlich im Vollbild
+* => Viel Unruhe auf dem Bildschirm	
+	* Streß
+	* weite Mauswege	 
+
+---
+
+# Smartphone-App
+* Smartphone wird in der Hand gehalten
+* extremer Größenunterschied
+* "fummelige" Eingabe
+
+---
+
+# Tablet
+
+* durch Verwendung einer Hülle relativ kleine Standfläche
+* geringerer Größenunterschied beim Display
+* einfachere  Bedienung
+
+---
+
+# Live-Präsentation
