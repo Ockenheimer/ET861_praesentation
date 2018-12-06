@@ -42,7 +42,7 @@ bis 2018
 # "ElsterOnline" jetzt _**"Mein Elster"**_	
 * Webanwendung
 * Vorteil: 
-	* mehr Formulare
+	* alle Formulare
 	* papierlose Erklärungsübermittlung
 * Nachteil:
    	* klassische Formularansicht nicht verfügbar 
@@ -61,7 +61,7 @@ bis 2018
 ---
 ![](images/Hintergrund.png)
 
-![right fit](images/Elster.png)
+![right fit 90%](images/Elster.png)
 # Projektidee:
 
 Geringe Abzeptanz von "Mein Elster"
@@ -84,8 +84,28 @@ zur Registrierung in "Mein Elster"
 
 Zur Auswahl stehen:
 1. PC-Anwendung ![right fit 15%](images/PC.png)
-2. Tablet-App ![right fit 30%](images/tablet.png)
-3. Smartphone-App ![right fit 20%](images/handy.png)
+
+---
+
+![](images/Hintergrund.png)
+
+# Welche Plattform?
+
+Zur Auswahl stehen:
+1. PC-Anwendung ![right fit 15%](images/PC.png)
+2. Smartphone-App ![right fit 20%](images/handy.png)
+
+---
+
+![](images/Hintergrund.png)
+
+# Welche Plattform?
+
+Zur Auswahl stehen:
+1. PC-Anwendung ![right fit 15%](images/PC.png)
+2. Smartphone-App ![right fit 20%](images/handy.png)
+3. Tablet-App ![right fit 30%](images/tablet.png)
+
 
 ---
 ![](images/Hintergrund.png)
@@ -109,7 +129,7 @@ Zur Auswahl stehen:
 ---
 ![](images/Hintergrund.png)
 
-![right fit 200%](images/tablet.png)
+![right fit 200%](images/Tablet.svg)
 # Tablet
 
 * durch Verwendung einer Hülle relativ kleine Standfläche
